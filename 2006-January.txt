@@ -1,0 +1,63 @@
+From bf at bf-data.dk  Sat Jan 14 19:41:17 2006
+From: bf at bf-data.dk (=?ISO-8859-1?Q?Bj=F8rn_Fahn=F8e?=)
+Date: Sat, 14 Jan 2006 19:41:17 +0100
+Subject: [Mondorescue-users] Problem but do the list exist?
+Message-ID: <43C945CD.7070608@bf-data.dk>
+
+I have tried to open the lists archive, but i get at "Page cannot be 
+found"-error
+OK my problem is that I cannot restore. I have tried on a trialmachine 
+with Mandriva 2006.0. Nothing worked with mondo or mindi with the RPM's 
+from the installation cd, so I fetched the 1.06 and 2.06 versins from
+ftp://ftp.berlios.de/pub/mondorescue/mandriva/2006.0/
+Now I can use mindi and also mondo, after some work.
+I have made at complete backup with mondo, but when I
+try to restore the backup on another harddisk in the same machine it 
+stops and cannot format the partitions that contains /var and /home.
+Must I use a harddisk of equal or greater size, or is something wrong?
+Bj?rn Fahn?e
+
+
+From cch at dataswift.fr  Mon Jan 16 11:32:54 2006
+From: cch at dataswift.fr (Constantin CHARISSIS)
+Date: Mon, 16 Jan 2006 11:32:54 +0100
+Subject: [Mondorescue-users] Fedora Core 1,2,3 support
+Message-ID: <20060116103259.38DA124009E9@tux.dataswift.fr>
+
+Hi,
+
+I'm using older version of mondo under fedora core 1 and it works great.
+
+I want to use it now on a fedora core 3 system but the new repository for
+the rpms is empy for fedora core 1,2,3.
+
+Is support for those older version stoped ?
+
+Best regards,
+Constantin Charissis
+DATASWIFT
+
+
+
+From daniel at nextwindow.net  Mon Jan 23 22:37:29 2006
+From: daniel at nextwindow.net (Daniel Newton)
+Date: Tue, 24 Jan 2006 10:37:29 +1300
+Subject: [Mondorescue-users] latest mindi-kernel?
+Message-ID: <43D54C99.1050405@nextwindow.net>
+
+Where can I get the latest mindi-kernel package?
+
+Or should I just use the latest stable files from svn 
+(http://svn.berlios.de/wsvn/mondorescue/branches/stable/mindi-kernel/?rev=0&sc=0) 
+and install using the script there?
+
+thanks
+
+
+-- 
+No virus found in this outgoing message.
+Checked by AVG Free Edition.
+Version: 7.1.375 / Virus Database: 267.14.22/238 - Release Date: 23/01/2006
+
+
+
